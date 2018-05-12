@@ -1,0 +1,26 @@
+_repo: Folk-Lore-and-Legends--Scandinavian_15186
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Tibbitts, Charles John
+    alias: Tibbits, Charles John
+    gutenberg_agent_id: '37604'
+    url: http://www.gutenberg.org/2009/agents/37604
+description: ''
+gutenberg_issued: '2005-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15186'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Scandinavia'
+- !lcsh 'Legends -- Scandinavia'
+- !lcc 'GR'
+title: 'Folk-Lore and Legends: Scandinavian'
+url: http://www.gutenberg.org/ebooks/15186
